@@ -15,7 +15,7 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1674548140,,"wq"
+|2,0,1674631818,,"wq"
 
 # Search String History (newest to oldest):
 ? \<ip\>
@@ -30,30 +30,48 @@
 # Registers:
 
 # File marks:
-'0  12  2  ~/.bash_profile
-|4,48,12,2,1674548140,"~/.bash_profile"
-'1  13  43  ~/.bash_profile
-|4,49,13,43,1674546308,"~/.bash_profile"
-'2  13  43  ~/.bash_profile
-|4,50,13,43,1674546308,"~/.bash_profile"
-'3  1  6  /etc/hostname
-|4,51,1,6,1674545806,"/etc/hostname"
-'4  1  5  /etc/hostname
-|4,52,1,5,1674545773,"/etc/hostname"
-'5  1  0  /etc/hostname
-|4,53,1,0,1674545135,"/etc/hostname"
-'6  1  0  /etc/hostname
-|4,54,1,0,1674545135,"/etc/hostname"
-'7  1  0  /etc/hostname
-|4,55,1,0,1674545045,"/etc/hostname"
-'8  1  0  /etc/hostname
-|4,56,1,0,1674545045,"/etc/hostname"
-'9  1  0  /etc/hostname
-|4,57,1,0,1674545045,"/etc/hostname"
+'0  11  8  ~/.bash_profile
+|4,48,11,8,1674631818,"~/.bash_profile"
+'1  11  12  ~/.bash_profile
+|4,49,11,12,1674631467,"~/.bash_profile"
+'2  11  12  ~/.bash_profile
+|4,50,11,12,1674631188,"~/.bash_profile"
+'3  11  12  ~/.bash_profile
+|4,51,11,12,1674631188,"~/.bash_profile"
+'4  12  2  ~/.bash_profile
+|4,52,12,2,1674548140,"~/.bash_profile"
+'5  12  2  ~/.bash_profile
+|4,53,12,2,1674548140,"~/.bash_profile"
+'6  12  2  ~/.bash_profile
+|4,54,12,2,1674548140,"~/.bash_profile"
+'7  12  2  ~/.bash_profile
+|4,55,12,2,1674548140,"~/.bash_profile"
+'8  12  2  ~/.bash_profile
+|4,56,12,2,1674548140,"~/.bash_profile"
+'9  12  2  ~/.bash_profile
+|4,57,12,2,1674548140,"~/.bash_profile"
 
 # Jumplist (newest first):
+-'  11  8  ~/.bash_profile
+|4,39,11,8,1674631818,"~/.bash_profile"
+-'  11  12  ~/.bash_profile
+|4,39,11,12,1674631467,"~/.bash_profile"
+-'  11  12  ~/.bash_profile
+|4,39,11,12,1674631188,"~/.bash_profile"
+-'  12  2  ~/.bash_profile
+|4,39,12,2,1674631170,"~/.bash_profile"
+-'  12  2  ~/.bash_profile
+|4,39,12,2,1674631170,"~/.bash_profile"
+-'  12  2  ~/.bash_profile
+|4,39,12,2,1674631170,"~/.bash_profile"
 -'  12  2  ~/.bash_profile
 |4,39,12,2,1674548140,"~/.bash_profile"
+-'  13  43  ~/.bash_profile
+|4,39,13,43,1674548120,"~/.bash_profile"
+-'  13  43  ~/.bash_profile
+|4,39,13,43,1674548120,"~/.bash_profile"
+-'  13  43  ~/.bash_profile
+|4,39,13,43,1674548120,"~/.bash_profile"
 -'  13  43  ~/.bash_profile
 |4,39,13,43,1674548120,"~/.bash_profile"
 -'  13  43  ~/.bash_profile
@@ -62,6 +80,12 @@
 |4,39,1,0,1674546215,"~/.bash_profile"
 -'  1  0  ~/.bash_profile
 |4,39,1,0,1674546215,"~/.bash_profile"
+-'  1  0  ~/.bash_profile
+|4,39,1,0,1674546215,"~/.bash_profile"
+-'  1  0  ~/.bash_profile
+|4,39,1,0,1674546215,"~/.bash_profile"
+-'  1  0  ~/.bash_profile
+|4,39,1,0,1674546215,"~/.bash_profile"
 -'  1  6  /etc/hostname
 |4,39,1,6,1674545806,"/etc/hostname"
 -'  1  6  /etc/hostname
@@ -70,6 +94,118 @@
 |4,39,1,6,1674545806,"/etc/hostname"
 -'  1  6  /etc/hostname
 |4,39,1,6,1674545806,"/etc/hostname"
+-'  1  6  /etc/hostname
+|4,39,1,6,1674545806,"/etc/hostname"
+-'  1  6  /etc/hostname
+|4,39,1,6,1674545806,"/etc/hostname"
+-'  1  6  /etc/hostname
+|4,39,1,6,1674545806,"/etc/hostname"
+-'  1  6  /etc/hostname
+|4,39,1,6,1674545806,"/etc/hostname"
+-'  1  6  /etc/hostname
+|4,39,1,6,1674545806,"/etc/hostname"
+-'  1  6  /etc/hostname
+|4,39,1,6,1674545806,"/etc/hostname"
+-'  1  6  /etc/hostname
+|4,39,1,6,1674545806,"/etc/hostname"
+-'  1  6  /etc/hostname
+|4,39,1,6,1674545806,"/etc/hostname"
+-'  1  6  /etc/hostname
+|4,39,1,6,1674545806,"/etc/hostname"
+-'  1  6  /etc/hostname
+|4,39,1,6,1674545806,"/etc/hostname"
+-'  1  6  /etc/hostname
+|4,39,1,6,1674545806,"/etc/hostname"
+-'  1  6  /etc/hostname
+|4,39,1,6,1674545806,"/etc/hostname"
+-'  1  6  /etc/hostname
+|4,39,1,6,1674545806,"/etc/hostname"
+-'  1  6  /etc/hostname
+|4,39,1,6,1674545806,"/etc/hostname"
+-'  1  6  /etc/hostname
+|4,39,1,6,1674545806,"/etc/hostname"
+-'  1  6  /etc/hostname
+|4,39,1,6,1674545806,"/etc/hostname"
+-'  1  6  /etc/hostname
+|4,39,1,6,1674545806,"/etc/hostname"
+-'  1  6  /etc/hostname
+|4,39,1,6,1674545806,"/etc/hostname"
+-'  1  6  /etc/hostname
+|4,39,1,6,1674545806,"/etc/hostname"
+-'  1  6  /etc/hostname
+|4,39,1,6,1674545806,"/etc/hostname"
+-'  1  6  /etc/hostname
+|4,39,1,6,1674545806,"/etc/hostname"
+-'  1  6  /etc/hostname
+|4,39,1,6,1674545806,"/etc/hostname"
+-'  1  6  /etc/hostname
+|4,39,1,6,1674545806,"/etc/hostname"
+-'  1  6  /etc/hostname
+|4,39,1,6,1674545806,"/etc/hostname"
+-'  1  6  /etc/hostname
+|4,39,1,6,1674545806,"/etc/hostname"
+-'  1  6  /etc/hostname
+|4,39,1,6,1674545806,"/etc/hostname"
+-'  1  6  /etc/hostname
+|4,39,1,6,1674545806,"/etc/hostname"
+-'  1  6  /etc/hostname
+|4,39,1,6,1674545806,"/etc/hostname"
+-'  1  5  /etc/hostname
+|4,39,1,5,1674545773,"/etc/hostname"
+-'  1  5  /etc/hostname
+|4,39,1,5,1674545773,"/etc/hostname"
+-'  1  5  /etc/hostname
+|4,39,1,5,1674545773,"/etc/hostname"
+-'  1  5  /etc/hostname
+|4,39,1,5,1674545773,"/etc/hostname"
+-'  1  5  /etc/hostname
+|4,39,1,5,1674545773,"/etc/hostname"
+-'  1  5  /etc/hostname
+|4,39,1,5,1674545773,"/etc/hostname"
+-'  1  5  /etc/hostname
+|4,39,1,5,1674545773,"/etc/hostname"
+-'  1  5  /etc/hostname
+|4,39,1,5,1674545773,"/etc/hostname"
+-'  1  5  /etc/hostname
+|4,39,1,5,1674545773,"/etc/hostname"
+-'  1  5  /etc/hostname
+|4,39,1,5,1674545773,"/etc/hostname"
+-'  1  5  /etc/hostname
+|4,39,1,5,1674545773,"/etc/hostname"
+-'  1  5  /etc/hostname
+|4,39,1,5,1674545773,"/etc/hostname"
+-'  1  5  /etc/hostname
+|4,39,1,5,1674545773,"/etc/hostname"
+-'  1  5  /etc/hostname
+|4,39,1,5,1674545773,"/etc/hostname"
+-'  1  5  /etc/hostname
+|4,39,1,5,1674545773,"/etc/hostname"
+-'  1  5  /etc/hostname
+|4,39,1,5,1674545773,"/etc/hostname"
+-'  1  5  /etc/hostname
+|4,39,1,5,1674545773,"/etc/hostname"
+-'  1  5  /etc/hostname
+|4,39,1,5,1674545773,"/etc/hostname"
+-'  1  5  /etc/hostname
+|4,39,1,5,1674545773,"/etc/hostname"
+-'  1  5  /etc/hostname
+|4,39,1,5,1674545773,"/etc/hostname"
+-'  1  5  /etc/hostname
+|4,39,1,5,1674545773,"/etc/hostname"
+-'  1  5  /etc/hostname
+|4,39,1,5,1674545773,"/etc/hostname"
+-'  1  5  /etc/hostname
+|4,39,1,5,1674545773,"/etc/hostname"
+-'  1  5  /etc/hostname
+|4,39,1,5,1674545773,"/etc/hostname"
+-'  1  5  /etc/hostname
+|4,39,1,5,1674545773,"/etc/hostname"
+-'  1  5  /etc/hostname
+|4,39,1,5,1674545773,"/etc/hostname"
+-'  1  5  /etc/hostname
+|4,39,1,5,1674545773,"/etc/hostname"
+-'  1  5  /etc/hostname
+|4,39,1,5,1674545773,"/etc/hostname"
 -'  1  5  /etc/hostname
 |4,39,1,5,1674545773,"/etc/hostname"
 -'  1  5  /etc/hostname
@@ -87,81 +223,48 @@
 -'  1  0  /etc/hostname
 |4,39,1,0,1674545135,"/etc/hostname"
 -'  1  0  /etc/hostname
-|4,39,1,0,1674545045,"/etc/hostname"
+|4,39,1,0,1674545135,"/etc/hostname"
 -'  1  0  /etc/hostname
-|4,39,1,0,1674545045,"/etc/hostname"
+|4,39,1,0,1674545135,"/etc/hostname"
 -'  1  0  /etc/hostname
-|4,39,1,0,1674545045,"/etc/hostname"
+|4,39,1,0,1674545135,"/etc/hostname"
 -'  1  0  /etc/hostname
-|4,39,1,0,1674545045,"/etc/hostname"
--'  2  13  /etc/hostname
-|4,39,2,13,1674544959,"/etc/hostname"
--'  2  13  /etc/hostname
-|4,39,2,13,1674544959,"/etc/hostname"
--'  2  13  /etc/hostname
-|4,39,2,13,1674544959,"/etc/hostname"
--'  2  13  /etc/hostname
-|4,39,2,13,1674544959,"/etc/hostname"
--'  2  13  /etc/hostname
-|4,39,2,13,1674544959,"/etc/hostname"
--'  2  13  /etc/hostname
-|4,39,2,13,1674544959,"/etc/hostname"
--'  2  13  /etc/hostname
-|4,39,2,13,1674544959,"/etc/hostname"
--'  2  13  /etc/hostname
-|4,39,2,13,1674544959,"/etc/hostname"
--'  2  13  /etc/hostname
-|4,39,2,13,1674544959,"/etc/hostname"
--'  2  13  /etc/hostname
-|4,39,2,13,1674544959,"/etc/hostname"
--'  2  13  /etc/hostname
-|4,39,2,13,1674544959,"/etc/hostname"
--'  2  13  /etc/hostname
-|4,39,2,13,1674544959,"/etc/hostname"
--'  2  13  /etc/hostname
-|4,39,2,13,1674544959,"/etc/hostname"
--'  2  13  /etc/hostname
-|4,39,2,13,1674544959,"/etc/hostname"
--'  2  13  /etc/hostname
-|4,39,2,13,1674544959,"/etc/hostname"
--'  2  13  /etc/hostname
-|4,39,2,13,1674544959,"/etc/hostname"
--'  2  13  /etc/hostname
-|4,39,2,13,1674544775,"/etc/hostname"
--'  2  13  /etc/hostname
-|4,39,2,13,1674544775,"/etc/hostname"
--'  2  13  /etc/hostname
-|4,39,2,13,1674544775,"/etc/hostname"
--'  2  13  /etc/hostname
-|4,39,2,13,1674544775,"/etc/hostname"
+|4,39,1,0,1674545135,"/etc/hostname"
 -'  1  0  /etc/hostname
-|4,39,1,0,1674544744,"/etc/hostname"
+|4,39,1,0,1674545135,"/etc/hostname"
 -'  1  0  /etc/hostname
-|4,39,1,0,1674544744,"/etc/hostname"
+|4,39,1,0,1674545135,"/etc/hostname"
 -'  1  0  /etc/hostname
-|4,39,1,0,1674544744,"/etc/hostname"
+|4,39,1,0,1674545135,"/etc/hostname"
 -'  1  0  /etc/hostname
-|4,39,1,0,1674544744,"/etc/hostname"
+|4,39,1,0,1674545135,"/etc/hostname"
 -'  1  0  /etc/hostname
-|4,39,1,0,1674544744,"/etc/hostname"
+|4,39,1,0,1674545135,"/etc/hostname"
 -'  1  0  /etc/hostname
-|4,39,1,0,1674544744,"/etc/hostname"
+|4,39,1,0,1674545135,"/etc/hostname"
 -'  1  0  /etc/hostname
-|4,39,1,0,1674544744,"/etc/hostname"
+|4,39,1,0,1674545135,"/etc/hostname"
 -'  1  0  /etc/hostname
-|4,39,1,0,1674544744,"/etc/hostname"
+|4,39,1,0,1674545135,"/etc/hostname"
+-'  1  0  /etc/hostname
+|4,39,1,0,1674545135,"/etc/hostname"
+-'  1  0  /etc/hostname
+|4,39,1,0,1674545135,"/etc/hostname"
+-'  1  0  /etc/hostname
+|4,39,1,0,1674545135,"/etc/hostname"
 
 # History of marks within files (newest to oldest):
 
 > ~/.bash_profile
-	*	1674548138	0
-	"	12	2
-	^	12	3
-	.	12	3
+	*	1674631813	0
+	"	11	8
+	^	11	9
+	.	11	9
 	+	12	16
 	+	13	43
 	+	11	8
 	+	12	3
+	+	11	9
 
 > /etc/hostname
 	*	1674545804	0
